@@ -6,7 +6,7 @@
 // Task 1: DOM Archaeologist
 // ============================================
 
-console.log("=== Task 1: DOM Archaeologist ===");
+console.log("=== Task 1: DOM Archaeologist ===");//
 
 // Starting from document.body, using only navigation properties
 const body = document.body;
@@ -201,3 +201,4 @@ Key Concepts Demonstrated:
    - Attributes are HTML source values
    - Some sync, some don't
 */
+
